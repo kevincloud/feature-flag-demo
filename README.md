@@ -27,9 +27,8 @@ SDKKey=YOUR_KEY_HERE
 
 6. From the terminal, run: `python app.py`
 
-## Conclusion
+7. In your browser, navigate to http://127.0.0.1:5000
 
-You should now be able to view various shipping rates by 
-turning on the corresponding feature flag in LaunchDarkly.
+8. Toggle feature flags in LaunchDarkly and refresh the browser to view various shipping rates
 
 Enjoy!
